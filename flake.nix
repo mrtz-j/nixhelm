@@ -22,6 +22,7 @@
       haumea,
       nixpkgs,
       flake-utils,
+      flake-compat,
       nix-kube-generators,
       poetry2nix,
       ...
